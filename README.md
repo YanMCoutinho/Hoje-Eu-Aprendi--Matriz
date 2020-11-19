@@ -1,12 +1,12 @@
 # :books: Hoje eu aprendi - Vetores
-<p>Meus primeiros exercícios com vetores.</p>
+<p>Meu primeiro exercício com Matriz.</p>
 
 <br>
 <br>
 
 # :blue_book: Objetivo
 
-O objetivo desse exercício é fundamentar através da prática os conceitos de vetor(Array) usando Java.
+O objetivo desse exercício é fundamentar através da prática os conceitos de Matriz usando Java.
 
 <br>
 <br>
