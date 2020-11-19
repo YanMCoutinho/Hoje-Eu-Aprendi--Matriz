@@ -1,2 +1,18 @@
-# Hoje Eu Aprendi  Matriz
- 1 Exercício de Matriz. Essa atividade tem como foco principal o desenvolvimento pela prática dos conceitos sobre Matriz e sua fixação.
+# :books: Hoje eu aprendi - Vetores
+<p>Meus primeiros exercícios com vetores.</p>
+
+<br>
+<br>
+
+# :blue_book: Objetivo
+
+O objetivo desse exercício é fundamentar através da prática os conceitos de vetor(Array) usando Java.
+
+<br>
+<br>
+
+# :computer: Tecnologias
+
+As tecnológias utilizadas foram:
+
+![Badge](https://img.shields.io/static/v1?label=&message=Java&color=FF4040&style=for-the-badge)
